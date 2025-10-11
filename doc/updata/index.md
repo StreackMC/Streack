@@ -22,6 +22,12 @@ description: "见证每一次变化"
 
 ## S1P2「樱飘雪霁月」更新日志
 
+### 25w41a
+
+* 新增高版本兼容（Java 1.21.9/Bedrock 1.21.100）
+* 暂时移除粘液科技附属【异域花园】
+* 更新插件版本
+
 ### 25w40c
 
 * *Streack Service Datapack*更新
