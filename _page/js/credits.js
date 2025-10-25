@@ -209,7 +209,7 @@ function credit2html(original) {
   });
   return html;
 };
-fetch("https://kdxiaoyi.top/Streack/resourcepack/assets/minecraft/texts/credits.json").then(response => {
+fetch("https://mc.kdxiaoyi.top/Streack/resourcepack/assets/minecraft/texts/credits.json").then(response => {
   if (!response.ok) {
     console.error(`[Streack.webtool.credits/get_origin_credit] 获取团队成员文件时返回了HTTP错误码 ${response.status}\n @ `, response);
     throw new Error(`[Streack.webtool.credits/get_origin_credit] 获取团队成员文件时返回了HTTP错误码 ${response.status}`);

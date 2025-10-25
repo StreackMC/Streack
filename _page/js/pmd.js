@@ -11,7 +11,7 @@ const conf = {
       /*文章授权协议*/
       what: `ARR`,
       /*文章授权协议链接*/
-      link: `https://kdxiaoyi.top/Streack/assets/license`,
+      link: `https://mc.kdxiaoyi.top/Streack/assets/license`,
     },
     /*自定义CSS样式*/
     style: `s-card#slot_2 {flex-wrap: wrap;flex-direction: row;}`,
@@ -55,7 +55,7 @@ const conf = {
   sidebar: {
     solt_1: {
       /*左侧边栏·第1格·背景图片*/
-      src: `http://kdxiaoyi.top/Streack/assets/img/cover.png`,
+      src: `http://mc.kdxiaoyi.top/Streack/assets/img/cover.png`,
       /*左侧边栏·第1格·背景图片描述*/
       alt: `栈流 Streack`,
       /*左侧边栏·第1格·描述文案背景，依次亮色透明度、暗色透明度、亮色模糊度、暗色模糊度*/
@@ -99,7 +99,7 @@ const conf = {
     /*在标题的最后添加一个按钮以复制链接指向这个标题*/
     header_link: true,
     /*在页面底端增加文章脚注，为空不额外添加*/
-    footer: `Copyright © 2025, Streack & kdxiaoyi. All Right Reserved.<br><a href="https://kdxiaoyi.top/Streack/policy/user" target="_blank">用户协议</a> | <a href="https://kdxiaoyi.top/Streack/policy/privacy" target="_blank">隐私政策</a> | <a href="mailto:streack@kdxiaoyi.top" target="_blank">电子邮箱</a> | <a href="https://github.com/kdxhub/Streack" target="_blank">Github</a> | <a href="https://kdxiaoyi.top/Streack/assets/license">版权许可</a><br>此站点与Mojang Studio、Microsoft或网易Netease没有任何关联。`,
+    footer: `Copyright © 2025, Streack & kdxiaoyi. All Right Reserved.<br><a href="https://mc.kdxiaoyi.top/Streack/policy/user" target="_blank">用户协议</a> | <a href="https://mc.kdxiaoyi.top/Streack/policy/privacy" target="_blank">隐私政策</a> | <a href="mailto:streack@kdxiaoyi.top" target="_blank">电子邮箱</a> | <a href="https://github.com/kdxhub/Streack" target="_blank">Github</a> | <a href="https://mc.kdxiaoyi.top/Streack/assets/license">版权许可</a><br>此站点与Mojang Studio、Microsoft或网易Netease没有任何关联。`,
     /*检查引用部分高级语法，详见文档*/
     quotepro: [true,`#1A73E7`,`#FBC116`,`#E23B2E`,`#30C496`],
   },

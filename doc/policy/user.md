@@ -47,10 +47,10 @@ description: " "
   4.3 本协议可能会根据法律法规、业务发展等需要进行更新。如协议内容发生重大变更，我们将通过公告或其他合理方式通知您。如您继续使用我们的服务，即表示您同意接受更新后的协议。
 </p>
 <p>
-  4.4 本服务会为您提供随机奖励机制（亦称“抽卡”），相关概率公示见于该网址：http://kdxiaoyi.top/Streack/doc/info/entroprix。
+  4.4 本服务会为您提供随机奖励机制（亦称“抽卡”），相关概率公示见于该网址：http://mc.kdxiaoyi.top/Streack/doc/info/entroprix。
 </p>
 <p>
   4.5 本协议最终解释权归属我们所有。
 </p>
 
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://mc.kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>

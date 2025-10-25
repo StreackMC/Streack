@@ -4,7 +4,7 @@ description: "致力于解决您所想知道的一切"
 ---
 <small id="old_menu"><a href="/Streack/">首页</a> | <a href="/Streack/doc/">文档</a></small><br><small><a href="/Streack/">←返回</a></small><br>
 
-![栈流Streack的宣传图片，含有栈流Streack的基本信息](https://kdxiaoyi.top/Streack/assets/img/referral_1.png "宣传图")
+![栈流Streack的宣传图片，含有栈流Streack的基本信息](https://mc.kdxiaoyi.top/Streack/assets/img/referral_1.png "宣传图")
 
 > [i] 目前服务器仍在快速更迭中，下述文档更新不一定及时。[更新日志](./updata)
 
@@ -48,4 +48,4 @@ description: "致力于解决您所想知道的一切"
 * [MCLists.cn上的栈流Streack฿](https://www.mclists.cn/server/8373.html)
 
 <div id="mdRender_config" data-sideship-hide="2"></div>
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://mc.kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
