@@ -5,7 +5,7 @@ description: "授权协议"
 <small id="old_menu"><a href="/Streack/">首页</a> | <a href="/Streack/doc/">文档</a></small>
 
 ## 许可约定内容
-栈流Streack团队（以下简称“我们”）就涉及栈流Streack网站（https://kdxiaoyi.top/Streack/）上相关受知识产权保护作品的权利让渡与授权做出相关约定。<br>
+栈流Streack团队（以下简称“我们”）就涉及栈流Streack网站（https://mc.kdxiaoyi.top/Streack/）上相关受知识产权保护作品的权利让渡与授权做出相关约定。<br>
 **您知悉，以任何形式、理由使用相关作品均受此约定限制，来自我们的书面许可、另有声明的或《中华人民共和国著作权法》（以下简称“著作权法”）中另有规定的除外。**
 
 我们授予全球范围内的、可撤销的、不可转让或再许可的、非排他性许可，允许您在以下情形时使用我们的作品：
@@ -66,4 +66,4 @@ description: "授权协议"
 
 其余另有作品仅在部分页面中使用，在相应页面内声明而不在此处列出。
 
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://mc.kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>

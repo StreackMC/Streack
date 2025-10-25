@@ -5,7 +5,7 @@ description: "QQBOT"
 <small id="old_menu"><a href="/Streack/">首页</a> | <a href="/Streack/doc/">文档</a></small><small><a href="../../">←返回</a> |
  创建：2025-05-29 | 最后更新：2025-05-30</small><br>
 
-[栈流Streack的交流群฿](https://kdxiaoyi.top/Streack/#qqun)内有QQ智能体，为您提供相关服务。
+[栈流Streack的交流群฿](https://mc.kdxiaoyi.top/Streack/#qqun)内有QQ智能体，为您提供相关服务。
 
 # 小可
 
@@ -13,7 +13,7 @@ description: "QQBOT"
 > 请参阅：[小可Wiki฿](https://bot.teahouse.team/)和[Teahouse-Studios/akari-bot฿](https://github.com/Teahouse-Studios/akari-bot)。
 
 > [!] **小可由第三方提供服务**，若使用即视为您额外同意[《茶馆工作室隐私政策》฿](https://teahouse.team/privacy/)。<br>
-> 您也不得利用漏洞或使用诱导等方式让小可输出违法违规言论。一经发现违背小可使用条款和[栈流Streack基本方针](https://kdxiaoyi.top/Streack/doc/policy/rule)中的内容，对Bot使用者进行相应惩罚。
+> 您也不得利用漏洞或使用诱导等方式让小可输出违法违规言论。一经发现违背小可使用条款和[栈流Streack基本方针](https://mc.kdxiaoyi.top/Streack/doc/policy/rule)中的内容，对Bot使用者进行相应惩罚。
 
 以下列出具有捷径别名的命令，详细可用模块命令请使用`~help`查看或前往[小可Wiki฿](https://bot.teahouse.team/)。<br>
 此处列出的命令用法可能过时，请以`~help <命令名>`的结果为准。
@@ -164,4 +164,4 @@ AI问答，可能需要消耗花瓣。<br>
 
 每日一签，获得随机花瓣。
 
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://mc.kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>

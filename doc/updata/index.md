@@ -26,6 +26,12 @@ description: "见证每一次变化"
 
 * 领地价格下调至2栈钱每平方米
 
+### 25w41a
+
+* 新增高版本兼容（Java 1.21.9/Bedrock 1.21.100）
+* 暂时移除粘液科技附属【异域花园】
+* 更新插件版本
+
 ### 25w40c
 
 * *Streack Service Datapack*更新
@@ -180,4 +186,4 @@ description: "见证每一次变化"
 
 * [S1P1「樱飘雪霁月」](./s1-je1_21_3)
 
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://mc.kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
