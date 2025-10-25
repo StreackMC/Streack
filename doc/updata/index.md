@@ -22,6 +22,10 @@ description: "见证每一次变化"
 
 ## S1P2「樱飘雪霁月」更新日志
 
+### 25w43a
+
+* 领地价格下调至2栈钱每平方米
+
 ### 25w40c
 
 * *Streack Service Datapack*更新
