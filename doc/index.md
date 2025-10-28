@@ -8,23 +8,22 @@ description: "致力于解决您所想知道的一切"
 
 > [i] 目前服务器仍在快速更迭中，下述文档更新不一定及时。[更新日志](./updata)
 
-## 基本
+## QuickStart
 * [资讯一览](./news/)
 * [更新日志](./updata)
 * [服务器特性](./info/feature)
 
 ## 教程
 * [无法连接到服务器的一般解决方案](./help/solution)
-* [优化粘液科技体验](./info/slimefun)
+* [优化粘液科技体验](./help/slimefun)
 * [将Bedrock账户绑定至Java版账户](./help/linkaccount)
 * [群智能体指南](./help/qbot)
 
 ## 在线工具
-
 * [服务器状态查询](/Streack/webtool/status)
 * [UUID生成器（Beta）](/Streack/webtool/uuid)
 
-## 近期活动一览
+## 近期活动
 * [「试用版密钥」不详宝库无限开](./event/20250920)
 * [「流光通证」权益助力更好生存](./event/20250614)
 * [「栈流回」回归连签奖励](./event/20250401b)
@@ -32,16 +31,19 @@ description: "致力于解决您所想知道的一切"
 * [「正伴我行」验证正版享专属福利](./event/20250422)
 * [*历史活动*](./event)
 
-## 政策方针
-* [栈流Streack基本方针](./policy/rule)
+## 信息公示
 * [栈流Streack团队成员](../webtool/credits.html)
 * [「熵流」概率公示](./info/entroprix)
-* [历次调研结果公示](./survey/)
 * [封禁信息公示](./info/ban)
-* [栈流Streack隐私政策](./policy/privacy)
-* [栈流Streack用户协议](./policy/user)
+* [历次调研结果公示](./survey/)
 
-## 外部链接
+## 政策方针
+* [基本方针](./policy/rule)
+* [备份与恢复方针](./policy/backup_and_restore)
+* [《栈流Streack隐私政策》](./policy/privacy)
+* [《栈流Streack用户协议》](./policy/user)
+
+## 其它链接
 * [MCMOD找服玩上的栈流Streack฿](https://play.mcmod.cn/sv20188495.html)
 * [MCLists.cn上的栈流Streack฿](https://www.mclists.cn/server/8373.html)
 

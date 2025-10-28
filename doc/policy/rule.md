@@ -1,9 +1,9 @@
 ---
-title: "栈流Streack基本方针"
+title: "基本方针"
 description: " "
 ---
 <small id="old_menu"><a href="/Streack/">首页</a> | <a href="/Streack/doc/">文档</a></small><br><small><a href="/Streack/doc">←返回</a> |
- 创建：2025-01-13 | 最后更新：2025-06-21</small><br>
+ 创建：2025-01-13 | 最后更新：2025-10-28</small><br>
 
 ## 前言
 俗话说「无以规矩，不成方圆」。虽然栈流Streack是一个很开放的服务器，但不意味着您可以随意打扰他人。因此在此约法三章。<br>
