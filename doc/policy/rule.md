@@ -3,7 +3,7 @@ title: "基本方针"
 description: " "
 ---
 <small id="old_menu"><a href="/Streack/">首页</a> | <a href="/Streack/doc/">文档</a></small><br><small><a href="/Streack/doc">←返回</a> |
- 创建：2025-01-13 | 最后更新：2025-10-28</small><br>
+ 创建：2025-01-13 | 最后更新：2025-10-29</small><br>
 
 ## 前言
 俗话说「无以规矩，不成方圆」。虽然栈流Streack是一个很开放的服务器，但不意味着您可以随意打扰他人。因此在此约法三章。<br>
@@ -56,5 +56,6 @@ description: " "
 
 1. 定义「恶性作弊功能」的标准是在[Tweakerwoo模组฿](https://www.mcmod.cn/class/2230.html)**官方版**中找不到的功能。
 2. 栈流Streack保留最终解释权。若对处罚结果有异议，可于惩罚结束前[提起申诉](https://mc.kdxiaoyi.top/Streack/#issue)，14个工作日内受理。
+3. 本页面、文本的样式仅用作辅助阅读，不得用作解释内容的依据。
 
 <script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://mc.kdxiaoyi.top/Streack/_page/js/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
